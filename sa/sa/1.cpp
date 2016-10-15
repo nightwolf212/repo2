@@ -30,7 +30,7 @@
 	k = 0;
 	for (j = 0; j <= n - 1; j++)
 	if (a[i] > a[j]) k++;
-	b[k + 1] = a[i];
+	b[k + 1] = a[i];גûאûגאûגאûגאûגאûגאûגאûגאûג!!!!!!!!!!!!!!!!!
 	}
 	QueryPerformanceCounter(&finish);
 	d = (finish.QuadPart - start.QuadPart) / (double)freq.QuadPart; //נאסק¸ע גנולוםט
